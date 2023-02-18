@@ -1,4 +1,4 @@
-##  **Hello, my name is Jorge. Nice to meet you!**
+##  **Olá, meu nome é Jorge. Sejam muito bem-vindos!**
 
 Estou aprendendo a programar, veja meus repositórios😉
 
