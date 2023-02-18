@@ -1,4 +1,4 @@
-##  **Olá, meu nome é Jorge. Sejam muito bem-vindos!**
+##  **Olá, sejam muito bem-vindos!**
 
 Estou aprendendo a programar, veja meus repositórios😉
 
