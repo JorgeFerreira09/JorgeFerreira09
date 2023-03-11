@@ -3,9 +3,6 @@
 Estou aprendendo a programar 😉
 </br>
 
-<div>
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=JorgeFerreira09&show_icons=true&theme=dark"
-
 <!-- Tecnologias --> 
 </div>
   <div style="display: inline_block"><br>
@@ -14,6 +11,12 @@ Estou aprendendo a programar 😉
     <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jorge-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">   
 </div>
+
+</br>
+<!-- Git Hub Stats -->
+<div>
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=JorgeFerreira09&show_icons=true&theme=dark">
+ </div>
  
  <br>
  
