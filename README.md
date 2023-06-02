@@ -1,6 +1,13 @@
 ##  **Olá, sejam muito bem-vindos!**
 
-Estou aprendendo a programar 😉
+Recentemente comecei a prestar serviço como analista de dados digitais. Adoro explorar a interseção entre a criatividade e a análise. Quando não estou imerso no mundo dos dados, gosto de mergulhar em leituras variadas, embora tenha um verdadeiro fascínio por livros de suspense.
+
+Estou aqui para ajudá-lo(a) a tomar decisões mais acertadas, usando dados de forma precisa e eficaz. 
+
+</br>
+Veja alguns de meus dashboards aqui no GitHub 😊
+
+</br>
 </br>
 
 <!-- Tecnologias --> 
@@ -14,12 +21,15 @@ Estou aprendendo a programar 😉
   </div>
 
 </br>
+
+</br>
 <!-- Git Hub Stats -->
 <div>
   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=JorgeFerreira09&show_icons=true&theme=dark">
  </div>
  
  <br>
+ </br>
  
  <div> 
  <a href=https://www.youtube.com/channel/UCrqFnB9HOh9HST8EhH9a-aA target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
