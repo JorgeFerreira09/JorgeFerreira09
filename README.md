@@ -1,15 +1,11 @@
 ##  **Olá, sejam muito bem-vindos!**
 
-Recentemente comecei a prestar serviço como analista de dados digitais. Adoro explorar a interseção entre a criatividade e a análise. Quando não estou imerso no mundo dos dados, gosto de mergulhar em leituras variadas, embora tenha um verdadeiro fascínio por livros de suspense.
-
 Estou aqui para ajudá-lo(a) a tomar decisões mais acertadas, usando dados de forma precisa e eficaz. 
 
-</br>
+
 Veja alguns de meus dashboards aqui no GitHub 😊
 
 </br>
-</br>
-
 <!-- Tecnologias --> 
 </div>
   <div style="display: inline_block"><br>
