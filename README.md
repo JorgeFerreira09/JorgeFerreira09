@@ -1,7 +1,5 @@
 ##  **Olá, sejam muito bem-vindos!**
 
-Estou aqui para ajudá-lo(a) a tomar decisões mais acertadas, usando dados de forma precisa e eficaz. 
-
 Veja alguns de meus dashboards abaixo 😊
 
 <!-- Tecnologias --> 
