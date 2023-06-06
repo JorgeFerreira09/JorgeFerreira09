@@ -1,6 +1,6 @@
 ##  **Olá, sejam muito bem-vindos!**
 
-Veja alguns de meus dashboards abaixo 😊
+Veja alguns de meus dashboards abaixo em pinned 😊
 </br>
 </br>
 <!-- Tecnologias --> 
