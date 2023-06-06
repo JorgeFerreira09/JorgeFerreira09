@@ -2,10 +2,8 @@
 
 Estou aqui para ajudá-lo(a) a tomar decisões mais acertadas, usando dados de forma precisa e eficaz. 
 
+Veja alguns de meus dashboards abaixo 😊
 
-Veja alguns de meus dashboards aqui no GitHub 😊
-
-</br>
 <!-- Tecnologias --> 
 </div>
   <div style="display: inline_block"><br>
@@ -15,8 +13,6 @@ Veja alguns de meus dashboards aqui no GitHub 😊
     <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jorge-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">   
   </div>
-
-</br>
 
 </br>
 <!-- Git Hub Stats -->
