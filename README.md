@@ -1,8 +1,17 @@
 ##  **Olá, sejam muito bem-vindos!**
+Bem, meu trabalho é ajudar empresas a resolverem problemas de negócios e tecnologia por meio de decisões embasadas em dados. Sou um analista de dados digitais freelancer. 
 
-Veja abaixo (em pinned) alguns de meus dashboards 😊
 </br>
+
+🧠💡Quer entender por que suas campanhas de tráfego não estão decolando? 
 </br>
+Deixe que meu dashboard te mostre métricas claras ao longo do tempo, aponte os pontos de abandono no funil e identifique os melhores público e criativos para o sucesso da sua estratégia! 
+
+📊📈 Fica difícil tomar decisões assertivas sem uma visão clara das finanças? 📉 
+</br>
+Meu dashboard financeiro pode te proporcionar o controle necessário sobre o faturamento e as principais despesas, ajudando a impulsionar a sua empresa para o sucesso! 
+
+🔍🎯 Mapeio a jornada completa do lead, capturando dados chave em cada etapa. Utilizo poderosas ferramentas de análise de dados, como o GA4 (Google Analytics 4) e GTM (Google Tag Manager), para embasar decisões personalizadas e antecipar tendências com precisão.
 <!-- Tecnologias --> 
 </div>
   <div style="display: inline_block"><br>
@@ -28,3 +37,4 @@ Veja abaixo (em pinned) alguns de meus dashboards 😊
   <a href = "mailto:ferreirafilho081993@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jorge-ferreira-843520203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+Veja meus Dashboards embaixo em pinned !!!
