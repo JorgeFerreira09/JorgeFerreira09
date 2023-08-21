@@ -1,8 +1,5 @@
 ##  **Olá, sejam muito bem-vindos!**
 
-Meu trabalho é ajudar empresas a resolverem problemas de negócios e tecnologia por meio de decisões embasadas em dados. 
-</br>
-</br>
 Veja meus dashboards embaixo em pinned !!! 
 
 <!-- Tecnologias --> 
