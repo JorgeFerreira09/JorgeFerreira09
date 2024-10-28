@@ -6,7 +6,7 @@ No ano passado, conclui minha graduação em Análise e Desenvolvimento de Siste
 
 Antes disso, cursei metade da graduação em Matemática na UERJ, onde também estagiei como pesquisador no GHEMAT-UERJ. <br><br>
 
-:point_right: __Veja meus projetos na seção Pinned.__ <br><br>
+:point_right: __Veja meus projetos na seção Pinned!__ <br><br>
 
 <!-- Tecnologias --> 
 </div>
