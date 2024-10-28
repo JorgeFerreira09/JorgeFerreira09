@@ -1,12 +1,12 @@
 <!-- Intro -->
-## Olá, sejam muito bem-vindos! 
+# Olá, sejam muito bem-vindos! :high_brightness: 
 
 <br>
-No ano passado, conclui minha graduação em Análise e Desenvolvimento de Sistemas e, desde então, venho aprimorando minhas habilidades em dados por meio de diversos cursos e projetos autônomos, alguns dos quais estão disponíveis na seção 'pinned'. <br><br>
+No ano passado, conclui minha graduação em Análise e Desenvolvimento de Sistemas e, desde então, venho aprimorando minhas habilidades em dados por meio de diversos cursos e projetos como freelancer. <br><br>
 
 Antes disso, cursei metade da graduação em Matemática na UERJ, onde também estagiei como pesquisador no GHEMAT-UERJ. <br><br>
 
-### Veja meus dashboards embaixo em pinned !!!  <br><br><br><br>
+:point_right: __Veja meus projetos na seção 'Pinned'!__ <br><br>
 
 <!-- Tecnologias --> 
 </div>
