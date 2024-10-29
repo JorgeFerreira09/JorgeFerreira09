@@ -2,9 +2,9 @@
 # :high_brightness:Olá, sejam muito bem-vindos! 
 
 <br>
-No ano passado, conclui minha graduação em Análise e Desenvolvimento de Sistemas e, desde então, venho aprimorando minhas habilidades em dados por meio de diversos cursos e projetos como freelancer. <br><br>
+No ano passado, conclui minha graduação em Análise e Desenvolvimento de Sistemas e, desde então, venho aprimorando minhas habilidades em dados por meio de diversos cursos e projetos como freelancer.  <br><br>
 
-Antes disso, cursei metade da graduação em Matemática na UERJ, onde também estagiei como pesquisador no GHEMAT-UERJ. Desde criança, planilhando dados de Brasfoot e Football Manager para tomar as melhores decisões. Amante de café, leitura e de jogos antigos. 
+Antes disso, cursei metade da graduação em Matemática na UERJ, onde também estagiei como pesquisador no GHEMAT-UERJ. Planilhando dados de jogos como Brasfoot e Football Manager desde criança. Amante de café expresso, leitura e jogos clássicos ☕📊📚.
  <br><br>
 
 :point_right: __Veja meus projetos na seção Pinned!__ <br><br>
@@ -12,15 +12,15 @@ Antes disso, cursei metade da graduação em Matemática na UERJ, onde também e
 <!-- Tecnologias --> 
 </div>
   <div style="display: inline_block"><br>
-    <img align="center" alt="jorge-power-bi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
-    <img align="center" alt="jorge-looker" height="30" width="40" src="https://www.svgrepo.com/show/354012/looker-icon.svg">
-    <img align="center" alt="jorge-power-bi" height="30" width="40" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg">   
-    <img align="center" alt="Jorge-python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">  
-    <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img(RETIREI) align="center" alt="Jorge-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
-    </div>
+  <img align="center" alt="jorge-power-bi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
+  <img align="center" alt="Jorge-python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">  
+  <img align="center" alt="jorge-looker" height="30" width="40" src="https://www.svgrepo.com/show/354012/looker-icon.svg">
+  <img align="center" alt="jorge-power-bi" height="30" width="40" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg">   
+  <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img(RETIREI) align="center" alt="Jorge-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
+</div>
 
 </br>
 <!-- Git Hub Stats -->
