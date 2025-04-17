@@ -11,12 +11,17 @@
 <div habilidades>
 <h3><b>Habilidades Técnicas</b></h3>
 <p>
-☑️ Python   <br> 
-☑️ SQL      <br>
-☑️ Power BI <br>
-☑️ Looker   <br>
-☑️ Excel    <br>
+☑️ Python       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+☑️ Pandas       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+☑️ Matplotlib   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+☑️ Seaborn      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+☑️ SQL          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+☑️ Power BI     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+☑️ Looker       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+☑️ Excel        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+☑️ Estatística  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </div><br>
+
 
 <h3><b>Projetos</b></h3>
