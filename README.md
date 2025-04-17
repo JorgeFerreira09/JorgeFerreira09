@@ -21,10 +21,8 @@ Planilhando dados de jogos como Brasfoot e Football Manager desde criança. Alé
   <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img(RETIREI) align="center" alt="Jorge-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
 </div>
-
 </br>
-<!-- Git Hub Stats -->
-<
+
  <div> 
  <a href=https://www.youtube.com/channel/UCrqFnB9HOh9HST8EhH9a-aA target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ferreira081993/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
