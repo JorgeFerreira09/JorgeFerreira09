@@ -1,4 +1,4 @@
-<h2 align="center">👋🏼 Olá, sejam muito bem-vindos! </h2>
+<h2>👋🏼 Olá, sejam muito bem-vindos! </h2>
 
 <!-- Head --> 
 <div sobre_mim>
