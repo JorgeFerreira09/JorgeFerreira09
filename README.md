@@ -22,9 +22,11 @@
 </p>
 </div>
 
+<div projetos align="center">
 <h3><b>Projetos</b></h3>
 🟣   <a href="https://github.com/JorgeFerreira09/Dashboard-Lancamento-Digital"> Projeto 1: Dashboards de Lançamento Digital </a><br>
 🟣   <a href="https://github.com/JorgeFerreira09/Dashboard-Faturamento-Custos"> Projeto 2: Dashboard de Faturamento e Custos</a><br>
 🟣   <a href="https://github.com/JorgeFerreira09/Dashboard-de-Futebol" target="_blank">Projeto 3: Análise de Desempenho</a><br>
 🟣   <a href="https://github.com/JorgeFerreira09/Projeto_DataMarket"> Projeto 4: Análise de Vendas</a><br>
 🟣   <a href="https://github.com/JorgeFerreira09/projeto-automacao-brasfoot"> Projeto 5: Automação Brasfoot</a>
+</div>
