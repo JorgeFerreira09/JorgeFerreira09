@@ -5,23 +5,23 @@
 <h3><b>Sobre mim</b></h3>
 <p>Analista de Dados em formação, com forte capacidade analítica, paixão por storytelling com dados e satisfação em resolver problemas usando criatividade e lógica. </p>
 <p>Sou formado em Análise e Desenvolvimento de Sistemas. Após a graduação, realizei diversos cursos na área de dados, além de desenvolver projetos próprios e oferecer serviços como freelancer. </p>
-</div><br>
+</div>
 
 <!-- Body -->
 <div habilidades>
 <h3><b>Habilidades Técnicas</b></h3>
 <p>
-☑️ Python       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-☑️ Pandas       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-☑️ Matplotlib   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-☑️ Seaborn      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-☑️ SQL          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-☑️ Power BI     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-☑️ Looker       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-☑️ Excel        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-☑️ Estatística  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🟪 Python        <br>       
+🟪 Pandas        <br>
+🟪 Matplotlib    <br>
+🟪 Seaborn       <br>
+🟪 SQL           <br>
+🟪 Power BI      <br>
+🟪 Looker        <br>
+🟪 Excel         <br>
 </p>
-</div><br>
-
+</div>
 
 <h3><b>Projetos</b></h3>
+🟣 <a href="https://github.com/JorgeFerreira09/Dashboard-de-Futebol" target="_blank">Projeto 1: Análise de Desempenho</a>
+🟣  
