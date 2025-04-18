@@ -23,13 +23,8 @@
     <b>Habilidades Técnicas</b>
   </h3>
     <p>
-      🟣 Python        <br>       
-      🟣 Pandas        <br>
-      🟣 Matplotlib    <br>
-      🟣 Seaborn       <br>
-      🟣 SQL           <br>
-      🟣 Power BI      <br>
-      🟣 Looker        <br>
-      🟣 Excel         <br>
+      🟣 Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟣 Matplotlib &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟣 Power BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🟣 SQL 
+      <br>
+      🟣 Pandas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟣 Seaborn    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🟣 Looker   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🟣 Excel
   </p>
 </div>
