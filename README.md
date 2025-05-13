@@ -16,7 +16,7 @@
       <a href="https://github.com/JorgeFerreira09/Dashboard-Lancamento-Digital"> Projeto 2: Dashboards de Lançamento Digital </a><br>
       <a href="https://github.com/JorgeFerreira09/Dashboard-Faturamento-Custos"> Projeto 3: Dashboard de Faturamento e Custos</a><br>
       <a href="https://github.com/JorgeFerreira09/Dashboard-de-Futebol" target="_blank">Projeto 4: Análise de Desempenho de Futebol </a><br>
-      <a href="https://github.com/JorgeFerreira09/projeto-automacao-brasfoot"> Projeto 5: Automação Brasfoot</a>
+      <a href="https://github.com/JorgeFerreira09/projeto-automacao-brasfoot"> Projeto 5: Automação Brasfoot</a> <br>
       <a href="https://github.com/JorgeFerreira09/Projeto_DataMarket"> Projeto 6: DataViz Análise de Vendas</a><br>
       
 </div>
