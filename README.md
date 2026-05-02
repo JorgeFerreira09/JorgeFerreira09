@@ -4,8 +4,9 @@
   <h3>
     <b>Sobre mim</b>
   </h3>
-    <p> Sou um profissional com forte capacidade analítica, paixão por storytelling com dados e satisfação em resolver problemas usando criatividade e lógica. </p>
-    <p> Atuo como Auditor Interno Pleno no segmento de Petróleo e Gás, trazendo minha expertise prévia como Analista de Dados para a área de conformidade. </p>
+    <p> Sou um profissional com forte capacidade analítica, paixão por storytelling com dados e satisfação em resolver problemas usando criatividade e lógica. 
+      Atuo como Auditor Interno Pleno no segmento de Petróleo e Gás. 
+    </p>
 </div>
 
 <div projetos>
