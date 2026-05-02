@@ -5,7 +5,7 @@
     <b>Sobre mim</b>
   </h3>
     <p> Sou um profissional com forte capacidade analítica, paixão por storytelling com dados e satisfação em resolver problemas usando criatividade e lógica.
-    Sou formado em Análise e Desenvolvimento de Sistemas.  </p>
+    Sou formado em Análise e Desenvolvimento de Sistemas. Trabalho desde 2025 como Auditor Interno.  </p>
 </div>
 
 <div projetos>
