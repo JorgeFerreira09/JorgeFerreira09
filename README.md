@@ -5,7 +5,8 @@
     <b>Sobre mim</b>
   </h3>
     <p> Sou um profissional com forte capacidade analítica, paixão por storytelling com dados e satisfação em resolver problemas usando criatividade e lógica.
-    Sou formado em Análise e Desenvolvimento de Sistemas. Trabalho desde 2025 como Auditor Interno.  </p>
+        Atuo como Auditor Interno Pleno no segmento de Petróleo e Gás, trazendo minha expertise prévia como Analista de Dados para a área de conformidade.
+    </p>
 </div>
 
 <div projetos>
